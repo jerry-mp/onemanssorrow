@@ -1,7 +1,7 @@
 body {
     background-color: #4B3C36;
     text-align: justify;
-    background-image: url("m_o_s.png");
+    background-image: url("images/m_o_s.png");
     background-size: 600px;
     background-repeat: no-repeat;
     background-position: top right;
@@ -19,7 +19,7 @@ body {
 
 .sidebar {
     background-color: #7A1E1E;
-    background-image: url("crucifix.png");
+    background-image: url("images/crucifix.png");
     background-position-x: -225px;
     background-position-y: 60px;
     background-size: 500px;
@@ -38,7 +38,7 @@ body {
 
 .sidebar:hover {
     background-color: black;
-    background-image: url("judas-kiss.png");
+    background-image: url("images/judas-kiss.png");
     background-position-x: -185px;
     background-position-y: 60px;
     background-size: 500px;
@@ -186,7 +186,7 @@ footer {
     font-size: 22px;
     border-radius: 8px;
     background-color:#B2B2B2;
-    background-image: url("crown-of-thorns.png");
+    background-image: url("images/crown-of-thorns.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 200px;
