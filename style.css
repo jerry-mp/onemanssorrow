@@ -17,18 +17,6 @@ body {
     gap: 10px;
 }
 
-@media (min-width: 768px) {
-    .wrapper {
-        flex-direction: row;
-    }
-
-    .sidebar {
-        width: 240px;
-        flex-shrink: 0;
-    }
-
-}
-
 .sidebar {
     background-color: #7A1E1E;
     background-image: url("images/crucifix.png");
