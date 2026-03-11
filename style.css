@@ -171,6 +171,7 @@ footer {
     border-width: 4px;
     border-radius: 8px;
     gap: 10px;
+    max-width: 100%;
 }
 
 .foot-sidebar {
