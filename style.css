@@ -261,7 +261,7 @@ footer {
 @media (hover:hover) {
     .sidebar:hover {
     background-color: black;
-    background-image: url("judas-kiss.png");
+    background-image: url("images/judas-kiss.png");
     background-position-x: -185px;
     background-position-y: 60px;
     background-size: 500px;
