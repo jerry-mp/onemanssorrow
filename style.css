@@ -36,7 +36,7 @@ body {
     position: relative;
 }
 
-.sidebar:hover {
+/* .sidebar:hover {
     background-color: black;
     background-image: url("images/judas-kiss.png");
     background-position-x: -185px;
@@ -52,7 +52,7 @@ body {
     border-color: #E4DFD7;
     padding: 4px;
     text-align: center;
-}
+} */
 
 /* .sidebar:hover a {
     display: block;
