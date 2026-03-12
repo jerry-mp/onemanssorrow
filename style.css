@@ -240,7 +240,7 @@ footer {
         background-image: url("crucifix.png");
         background-position-x: -225px;
         background-position-y: 60px;
-        background-size: 500px;
+        background-size: 200px;
         background-repeat: no-repeat;
         /* margin: 10px; */
         border-radius: 10px;
@@ -249,7 +249,7 @@ footer {
         border-color: #E4DFD7;
         padding: 4px;
         text-align: center;
-        font-size: 18px;
+        font-size: 20px;
         position: relative;
     }
     footer {
