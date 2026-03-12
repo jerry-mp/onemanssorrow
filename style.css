@@ -184,9 +184,11 @@ footer {
     padding: 10px;
     text-align: justify;
     border-radius: 8px;
+    max-width: 100%;
 }
 
 .foot-info {
+    max-width: 100%;
     font-size: 22px;
     border-radius: 8px;
     background-color:#B2B2B2;
@@ -238,7 +240,7 @@ footer {
         width: 100%;
         background-color: #7A1E1E;
         background-image: url("images/crucifix.png");
-        background-position-x: 10px;
+        background-position-x: 5px;
         background-position-y: 5px;
         background-size: 200px;
         background-repeat: no-repeat;
@@ -247,7 +249,7 @@ footer {
         border-style: dotted;
         border-width: 4px;
         border-color: #E4DFD7;
-        padding: 15px;
+        padding: 15px 0px 15px 0px;
         text-align: center;
         font-size: 20px;
         position: relative;
@@ -257,7 +259,7 @@ footer {
         flex-direction: column;
     }
     .foot-sidebar {
-        width: 100%;
+        max-width: 100%;
         text-align: center;
     }
 }
