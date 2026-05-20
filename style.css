@@ -253,6 +253,7 @@ footer {
         text-align: center;
         font-size: 20px;
         position: relative;
+        transition: ease-in 3s;
     }
     footer {
         display: flex;
