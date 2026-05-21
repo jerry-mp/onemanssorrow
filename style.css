@@ -287,6 +287,7 @@ footer {
         max-height: 0;
         overflow: hidden;
         transition: max-height 0.3s ease, opacity 0.3s ease;
+        pointer-events: none;
     }
     .sidebar.open {
         max-height: 110px;
