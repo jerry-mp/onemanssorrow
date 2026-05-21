@@ -3,13 +3,13 @@ const mainNav = document.querySelector('#sidebar')
 
 function openSidebar() {
     mainNav.classList.add('open');
-    menuBtn.setAttribute('aria-expanded', 'true');
+    menuBTN.setAttribute('aria-expanded', 'true');
     mainNav.setAttribute('aria-hidden', 'false');
   }
 
 function closeSidebar() {
     mainNav.classList.remove('open');
-    menuBtn.setAttribute('aria-expanded', 'true');
+    menuBTN.setAttribute('aria-expanded', 'true');
     mainNav.setAttribute('aria-hidden','false')
 }
 
