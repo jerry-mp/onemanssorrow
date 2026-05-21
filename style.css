@@ -263,7 +263,8 @@ footer {
       cursor: pointer;
       border-radius: 10px;
       position: static;
-      height: 50px;
+      display: block;
+      height: 75px;
     }
     .sidebar {
         width: 100%;
